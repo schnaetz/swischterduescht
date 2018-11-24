@@ -2,6 +2,11 @@
     "name": "Swischterduest",
     "version": "1.0.0",
     "description": "This extension will replace texts on the websites you visit and make them more D A N K",
+	"icons": { 
+		"16": "dank-16.png",
+        "48": "dank-48.png",
+        "128": "dank-128.png" 
+	},
     "content_scripts": [
         {
             "matches": [
